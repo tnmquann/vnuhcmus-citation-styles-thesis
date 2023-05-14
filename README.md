@@ -7,6 +7,7 @@
 	* [Tiếng Anh](https://www.zotero.org/styles/vietnam-ministry-of-education-and-training-en)
 
 ## Hướng dẫn nhập trích dẫn cho Zotero
+* Vào folder **Zotero** và tải file `*.csl` phù hợp với khóa luận.
 * Ở giao diện chính của Zotero, chọn Edit > Preferences.
 * Tại mục Cite chọn vào icon `+` ngay dưới danh sách mẫu trích dẫn hiện có.
 * Chọn vào file `*.csl` vừa tải và chọn OK.
