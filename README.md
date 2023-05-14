@@ -13,6 +13,6 @@
 * Nhấn OK để lưu lại mẫu.
 
 ## Lưu ý
-- Để xếp theo ngôn ngữ thì các bạn chú ý trong Zotero có phần Language cho mỗi tài liệu tham khảo. Mặc định tiếng anh sẽ là "en". Các tài liệu tiếng Việt thì các bạn đánh là "vi" hoặc "Vietnamese". Như vậy style sẽ xếp theo đúng thứ tự là tài liệu tiếng Việt lên trên tài liệu tiếng Anh.
+- Để xếp theo ngôn ngữ thì các bạn chú ý trong Zotero có phần Language cho mỗi tài liệu tham khảo. Mặc định tiếng anh sẽ là "en" hoặc "English" (bản Zotero 5+). Các tài liệu tiếng Việt thì các bạn đánh là "vi" hoặc "Vietnamese" (Bản Zotero 5+). Như vậy style sẽ xếp theo đúng thứ tự là tài liệu tiếng Việt lên trên tài liệu tiếng Anh.
 - Thêm chữ "Tiếng Việt" và "Tiếng Anh" để giống mẫu cũ của Bộ Giáo Dục và Đào Tạo.
 - **Style này do phải sử dụng một số marco không phù hợp với yêu cầu hiện tại của Zotero nên không thể đưa lên server chung của Zotero như 2 style ở trên.**
