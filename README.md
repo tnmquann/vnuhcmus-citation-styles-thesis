@@ -21,7 +21,7 @@
 ## Một số lỗi thường gặp
 ### Trích dẫn không sắp xếp theo alphabet.
 > *Xem thêm tại [đây](https://tex.stackexchange.com/questions/477949/biblatex-with-biber-splits-long-name-to-first-and-last-name)*
-* Một số tạp chí có quy định vị trí đặt họ/tên tác giả khác nhau, hoặc họ/tên tác giả được đặt khác (VD: Ở Việt Nam thì "Họ" được đặt ở trên cùng, khác với các nước phương Tây là đặt "Họ" ở cuối. Ngoài ra, trích dẫn này dựa vào hướng dẫn mẫu của [ACM SIGCHI Proceedings](https://citationsy.com/styles/acm-sigchi-proceedings), do đó hầu hết metadata sẽ được tách theo label `last_name` của `Author`, nếu `last_name` có nhiều hơn 1 từ thì Zotero sẽ sắp xếp lại dựa vào từ cuối cùng trong `last_name`.
+* Một số tạp chí có quy định vị trí đặt họ/tên tác giả khác nhau, hoặc họ/tên tác giả được đặt khác so với mình (VD: Ở Việt Nam thì "Họ" được đặt ở trên cùng, khác với các nước phương Tây là đặt "Họ" ở cuối). Ngoài ra, trích dẫn này dựa vào hướng dẫn mẫu của [ACM SIGCHI Proceedings](https://citationsy.com/styles/acm-sigchi-proceedings), do đó hầu hết metadata sẽ được tách theo label `last_name` của `Author`, nếu `last_name` có nhiều hơn 1 từ thì Zotero sẽ sắp xếp lại dựa vào từ cuối cùng trong `last_name`.
 
 <p align="center">
   <img src="https://github.com/tnmquann/vnuhcmus-citation-styles-thesis/assets/56569936/05f9752f-2916-4f6a-b897-f6b2cbc4ed6a" />
