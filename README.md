@@ -30,4 +30,4 @@
 <i> Mô tả vị trí trong mục "Author" của Zotero </i>
 </p>
 
-* Lúc này bạn chỉ cần vào lại metadata của trích dẫn và chỉnh lại phần `Author` sao cho phù hợp với yêu cầu trích dẫn và tải lại Zotero là được. (Lưu ý: Nếu chỉnh lại có thể sẽ ảnh hưởng đến thứ tự ban đầu của Họ - Tên tác giả, cần cân nhắc trước khi tiến hành).
+* Lúc này bạn chỉ cần vào lại metadata của trích dẫn và chỉnh lại phần `Author` sao cho phù hợp với yêu cầu trích dẫn và nhấn nút `Refreah` trong tab Zotero là được. (Lưu ý: Nếu chỉnh lại có thể sẽ ảnh hưởng đến thứ tự ban đầu của Họ - Tên tác giả, cần cân nhắc trước khi tiến hành).
